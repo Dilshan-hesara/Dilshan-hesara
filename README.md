@@ -13,6 +13,7 @@
   <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/share/HYktZGSZZbcg6rQ8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
 
 
 
@@ -20,19 +21,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+- 👋 Hi, I’m @Dilshan-hesara
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <p align="left">
-  <a href="mailto:hesarsdilshan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJAXzM46i4Nf5tLf/giphy.gif" alt="Welcome GIF" />
-</p>
-
-<p align="left">
-<a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="dilshan-hesara" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="dilshan-hesara" height="30" width="40" /></a>
-<a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="dilshan-hesara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Dilshan-Hesara-DH" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="dilshan-hesara" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/HYktZGSZZbcg6rQ8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
+ <a href="https://www.youtube.com/@Dilshan-Hesara-DH" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
+  <a href="mailto:hesarsdilshan@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30" width="30" /></a>
 </p>
