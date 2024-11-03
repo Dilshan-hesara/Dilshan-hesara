@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilshan Hesara</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=29&duration=3000&pause=500&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+W+e+l+c+o+m+e+%E2%9D%A4%EF%B8%8F;%F0%9F%91%89+D+i+l+s+h+a+n+%F0%9F%91%88;%F0%9F%91%89+D+i+l+s+h+a+n+%20H+e+s+a+r+a%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+D+e+v+e+l+o+p+e+r+r+%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+E+n+g+i+n+e+e+r+%F0%9F%91%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=29&duration=3000&pause=500&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+W+e+l+c+o+m+e+%E2%9D%A4%EF%B8%8F;%F0%9F%91%89+D+i+l+s+h+a+n+%F0%9F%91%88;%F0%9F%91%89+D+i+l+s+h+a+n+%20H+e+s+a+r+a%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+D+e+v+e+l+o+p+e+r+r+%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+D+e+v+e+l+o+p+e+r+%F0%9F%91%88)](https://git.io/typing-svg)
 
 - 👨‍💻 All my projects are available at [https://github.com/Dilshan-Hesara](https://github.com/Dilshan-Hesara)
 
