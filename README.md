@@ -5,7 +5,7 @@
 - 👨‍💻 All my projects are available at [https://github.com/Dilshan-Hesara](https://github.com/Dilshan-Hesara)
 
 - 📫 How to reach me:
-  <a href="https://www.youtube.com/@Dilshan-Hesara-DH" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/@Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
   <a href="mailto:hesarsdilshan@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
   <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://www.facebook.com/share/HYktZGSZZbcg6rQ8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/@Dilshan-Hesara-DH" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/@Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
   <a href="mailto:hesarsdilshan@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
   <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
