@@ -26,15 +26,7 @@
   <a href="https://www.facebook.com/share/HYktZGSZZbcg6rQ8/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-- 👋 Hi, I’m @Dilshan-Hesara<br>
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
-- 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...
-</p>
+
 
 <p align="left">
   <a href="https://dilshanhesara.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/Dilshan-hesara/my-portfolio/style/assets/images/logo/dilshan-light.png" alt="My Website" height="20" width="20" /></a>
@@ -58,10 +50,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan-hesara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<!-- GitHub trophy section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Dev Stats
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-Hesara&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+
+<h2 align="center"  width="30" height="30" style="margin-right: 10px;>
+  <img src="">
+</h2>
+
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme" alt="Loli Counter View" />
 </p>
+
 
 
 <!-- Profile view count -->
@@ -69,3 +77,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Dilshan-Hesara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view count" />
 </p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=footer"/>
