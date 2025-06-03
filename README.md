@@ -38,6 +38,10 @@
   <a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30" width="30" /></a>
 </p>
 
+![Profile View Counter](https://count.getloli.com/get/@dilshan-hesara.github.readme?count=2162)
+
+
+![Profile View Counter](https://count.getloli.com/get/@dilshan-hesara.github.readme)
 
 <!-- Profile view count -->
 
