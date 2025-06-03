@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dilshan Hesara</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=29&duration=3000&pause=500&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+W+e+l+c+o+m+e+%E2%9D%A4%EF%B8%8F;%F0%9F%91%89+D+i+l+s+h+a+n+%F0%9F%91%88;%F0%9F%91%89+D+i+l+s+h+a+n+%20H+e+s+a+r+a%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+D+e+v+e+l+o+p+e+r+r+%F0%9F%91%88;%F0%9F%91%89+S+o+f+t+w+a+r+e+D+e+v+e+l+o+p+e+r+%F0%9F%91%88)](https://git.io/typing-svg)
+<!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0077ff&height=120&section=header"/>
+
+
+<!-- Welcome Note -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2336BCF7&size=35&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Dilshan+Hesara;Welcome+to+my+GitHub+Profile!;Always+learning+and+building+cool+things!;Open+to+collaborations+%F0%9F%92%AA)](https://git.io/typing-svg)
+
+
+
+
 
 - 👨‍💻 [My Store ](https://dilshanhesara.com)
 
