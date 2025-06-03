@@ -40,13 +40,6 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme?theme=moebooru" alt="Animated Loli Counter" />
-</p>
-
-
-<sub>Started counting from May 7, 2025 — currently over 2400 views and counting!</sub>  
-
-<p align="center">
   <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme" alt="Loli Counter View" />
 </p>
 
