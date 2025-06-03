@@ -38,6 +38,18 @@
   <a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30" width="30" /></a>
 </p>
 
+<!-- 🚀 GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> GitHub Stats
+</h2>
+
+
+
+<!-- 🔥 GitHub Streak Section -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan-hesara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 <p align="center">
   <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme" alt="Loli Counter View" />
