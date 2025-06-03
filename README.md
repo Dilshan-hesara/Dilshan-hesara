@@ -66,10 +66,10 @@
     <a href="https://dilshanhesara.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/Dilshan-hesara/my-portfolio/style/assets/images/logo/dilshan-light.png" alt="My Website" height="20" width="20" /></a>
   <a href="https://www.youtube.com/@Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="30" width="30" /></a>
   <a href="mailto:dilshanhesara.dh@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/dilshanhesara/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="30" width="30"/></a>
   <a href="https://www.linkedin.com/in/dilshan-hesara-349a91319/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
- 
-  <a href="https://www.facebook.com/dilshanhesara.dh" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
+
+
 
 </div>
 
