@@ -38,8 +38,17 @@
   <a href="https://github.com/Dilshan-Hesara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" height="30" width="30" /></a>
 </p>
 
-![Profile View Counter](https://count.getloli.com/get/@dilshan-hesara.github.readme?count=2164)
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme?theme=moebooru" alt="Animated Loli Counter" />
+</p>
+
+
+<sub>Started counting from May 7, 2025 — currently over 2400 views and counting!</sub>  
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme" alt="Loli Counter View" />
+</p>
 
 
 <!-- Profile view count -->
