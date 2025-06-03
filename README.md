@@ -99,7 +99,53 @@
   <img src="">
 </h2>
 
+<h2 align="center">
+  Connect with Me
+</h2>
 
+<div align="center">
+
+  <a href="https://dilshanhesara.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="MyStore"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/dilshan-hesara/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://stackoverflow.com/users/24664175/dilshan-hesara" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+
+  <a href="https://www.facebook.com/dilshanhesara.dh" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="mailto:dilshanhesara.dh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://x.com/DilshanHesara" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="https://dilshan-hesara.medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+
+  <a href="https://www.youtube.com/@Dilshan-Hesara" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <a href="https://www.instagram.com/dilshanhesara/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
+
+<h2 align="center"  width="30" height="30" style="margin-right: 10px;>
+  <img src="">
+</h2>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@dilshan-hesara.github.readme" alt="Loli Counter View" />
