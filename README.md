@@ -87,7 +87,7 @@
 
 <!-- GitHub trophy section -->
 <h2 align="center">
-  <img src=" width="30" height="30" style="margin-right: 10px;"> Dev Stats
+  <img src="" width="30" height="30" style="margin-right: 10px;"> Dev Stats
 </h2>
 
 <div align="center">
