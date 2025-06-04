@@ -87,7 +87,7 @@
 
 <!-- GitHub trophy section -->
 <h2 align="center">
-  <img src="" width="30" height="30" style="margin-right: 10px;"> Dev Stats
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc5MnRrNzNrZ2xlbHJkODFxeXN1azg0bGQzYzkyanJ6cml2YW95OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TildeRGVa1ZVc6TC7R/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Dev Stats
 </h2>
 
 <div align="center">
