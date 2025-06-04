@@ -100,7 +100,10 @@
 </h2>
 
 <h2 align="center">
-  Connect with Me
+
+  <ifmg src="https://media3.giphy.com/mediyma/v1.Y2lkPTc5MGI3NjExOW5xdjAxeXRpN3Y2NmR3OTk5N3ozOTU0bG11dWI3YzBuOXJqdnA0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YatrMUJa1N6P6/giphy.gif"
+  width="30" height="30" />   Connect with Me
+
 </h2>
 
 <div align="center">
