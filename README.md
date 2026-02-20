@@ -99,9 +99,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc5MnRrNzNrZ2xlbHJkODFxeXN1azg0bGQzYzkyanJ6cml2YW95OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TildeRGVa1ZVc6TC7R/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Dev Stats
 </h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-Hesara&theme=discord&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilshan-hesara&theme=discord&no-frame=true" alt="GitHub Trophies" />
+</div> -->
 
 
 <h2 align="center"  width="30" height="30" style="margin-right: 10px;>
